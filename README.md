@@ -1,5 +1,7 @@
 # Vuex-Typescript [![Build Status](https://travis-ci.org/istrib/vuex-typescript.svg?branch=master)](https://travis-ci.org/istrib/vuex-typescript) [![Coverage Status](https://coveralls.io/repos/github/istrib/vuex-typescript/badge.svg?branch=master)](https://coveralls.io/github/istrib/vuex-typescript?branch=master) [![npm version](https://badge.fury.io/js/vuex-typescript.svg)](https://badge.fury.io/js/vuex-typescript)
 
+**Copy of https://github.com/istrib/vuex-typescript, with slight tweak**
+
 [https://github.com/istrib/vuex-typescript/](https://github.com/istrib/vuex-typescript/)
 
 A simple way to get static typing, static code analysis and intellisense with Vuex library.

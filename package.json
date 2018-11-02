@@ -1,14 +1,14 @@
 {
-  "name": "vuex-typescript",
-  "version": "3.0.2",
-  "description": "A simple way to get static typing, static code analysis and intellisense with Vuex library.",
+  "name": "vuex-typescript-getter-extension",
+  "version": "1.0.0",
+  "description": "(Extended getter handler to match Vuex docs; hopefully deprecated when PR is merged) A simple way to get static typing, static code analysis and intellisense with Vuex library.",
   "files": [
     "dist/index.js",
     "dist/index.d.ts"
   ],
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "author": "istrib",
+  "author": "jackkoppa",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^3.4.35",
